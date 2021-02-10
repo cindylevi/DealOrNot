@@ -1,0 +1,92 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Juegos
+{
+    public class deal_or_not
+    {
+        List<Maletin> _maletines = new List<Maletin>();
+        private int _i = 5;
+        public int I
+        {
+            get
+            {
+                return _i;
+            }
+        }
+        int _JugadasRestantes  = 5;
+        int NumMaletinElegido;
+        public int AbrirMaletin(int NumeroElegido)
+        {
+            int result;
+            if (_maletines[NumeroElegido].Importe != -1)
+            {
+                result = _maletines[NumeroElegido].Importe;
+                _maletines[NumeroElegido].Importe = -1;
+                _JugadasRestantes -= 1;
+            }
+            else
+            {
+                result = -1;
+            }
+            return result;
+        }
+        public int JugadasRestantes()
+        {
+            int result;
+            result = _JugadasRestantes;
+            if (_JugadasRestantes == 0)
+            {
+                _i -= 1;
+                _JugadasRestantes = _i;
+            }
+            return result;
+        }
+        public int OfertaBanca()
+        {
+            int y;
+            int oferta = 0;
+            int cantMaletinesRestantes = 0;
+            for( y = 0; y < 16; y++)
+            {
+                if (_maletines[y].Importe != -1)
+                {
+                    oferta += _maletines[y].Importe;
+                    cantMaletinesRestantes++;
+                }
+            }
+            oferta = oferta / cantMaletinesRestantes;
+            oferta = oferta - ( oferta * 15 / 100);
+            return oferta;
+        }
+        public void IniciarJuego (int NumMaletin)
+        {
+            int u = 1;
+            List<int> listaNumeros = new List<int>() { 1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 20000, 50000, 100000, 200000, 300000, 500000, 1000000 };
+            Random random = new Random();
+
+            while (listaNumeros.Count > 0)
+            {
+                int ran = random.Next(0, listaNumeros.Count);
+                Maletin mal = new Maletin(u, listaNumeros[ran]);
+                listaNumeros.RemoveAt(ran);
+                _maletines.Add(mal);
+                u++;
+            }
+        }
+        public int DecisionOferta(bool aceptar)
+        {
+            int result;
+            if (aceptar)
+            {
+                result = _maletines[NumMaletinElegido].Importe;
+            }
+            else
+            {
+                result = -1;
+            }
+            return result;
+        }
+    }
+}

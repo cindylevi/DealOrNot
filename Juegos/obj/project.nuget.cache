@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4gELWE5xHo8jQe6C6mEMk9DF9X2pBU2UAGKKt6eUSvIQAlQqMIOlyjM7P1Iss6RCqW+1EyVAOg04QbYP0ofFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariel\\OneDrive\\Documentos\\Clases Particulares\\Juegos\\Juegos\\Juegos\\Juegos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

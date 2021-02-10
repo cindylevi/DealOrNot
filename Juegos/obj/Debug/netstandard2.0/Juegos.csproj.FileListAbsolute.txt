@@ -1,0 +1,36 @@
+Z:\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.deps.json
+Z:\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.dll
+Z:\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.pdb
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csprojAssemblyReference.cache
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csproj.CoreCompileInputs.cache
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfoInputs.cache
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfo.cs
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.dll
+Z:\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.pdb
+Z:\2019\programacion\2doTrim\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.deps.json
+Z:\2019\programacion\2doTrim\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.dll
+Z:\2019\programacion\2doTrim\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.pdb
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csprojAssemblyReference.cache
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csproj.CoreCompileInputs.cache
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfoInputs.cache
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfo.cs
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.dll
+Z:\2019\programacion\2doTrim\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.pdb
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.deps.json
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.dll
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.pdb
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csprojAssemblyReference.cache
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfoInputs.cache
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfo.cs
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.dll
+C:\Users\ariel\Downloads\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.pdb
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.deps.json
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.dll
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\bin\Debug\netstandard2.0\Juegos.pdb
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.dll
+C:\Users\ariel\OneDrive\Documentos\Clases Particulares\Juegos\Juegos\Juegos\obj\Debug\netstandard2.0\Juegos.pdb
